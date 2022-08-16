@@ -6,7 +6,7 @@ This desktop app comprise of a single executable file. Click on the AV_PRAT.exe 
 
 ### Pre-requisites
 * Operating system: Windows 10 onwards.
-* ADFR suite must be installed.
+* ADFR suite must be installed. [Download Link](https://ccsb.scripps.edu/adfr/downloads/)
 * Vina needs to be installed, if you would like to run Vina.
 
 ### Quick start
