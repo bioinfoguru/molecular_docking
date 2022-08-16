@@ -1,6 +1,9 @@
 ## AV_PRAT: ADFR Vina - Prepare Run Analyze Tool
 AV_PRAT is a Windows app that provides a GUI for working with AutoDock Suite. 
 
+### Installation
+This desktop app comprise of a single executable file. Click on the AV_PRAT.exe link above and then click the Download button. Open the downloaded executable file by selecting "Run anyway".
+
 ### Pre-requisites
 * Operating system: Windows 10 onwards.
 * ADFR suite must be installed.
