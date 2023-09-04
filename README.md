@@ -23,7 +23,7 @@ This desktop app comprise of a single executable file. Click on the AV_PRAT.exe 
 * Ligand PDBQT refers to the path of the ligand PDBQT file(s) prepared in the previous step.
 * Enter .trg file path which was prepared using the AGFRgui tool.
 * Specify the Reference ligand (_optional_).
-* Enter docking parameters; for details about these please refer to the ADFR manual.
+* Enter docking parameters; for details about these please refer to the ADFR manual. Some of the docking parameters can be entered directly in this app. Other parameters can be entered in the command-line parameters field, if required.
 * Confirm the path of the ADFR config file and click Generate config. Review the option in the newly created config file. This file would be used to run the docking calculations. This config file can be manually edited as well to change or add parameters, if required. 
 * Once you are satisfied with the options in the config file, click Run ADFR to start the docking calculations. 
 
